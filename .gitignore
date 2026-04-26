@@ -1,0 +1,9 @@
+# Temporary and research files
+samples.json
+analysis_report.json
+analyze_posts.py
+analyze_samples.py
+sample_html.txt
+.gemini/
+*.log
+node_modules/
