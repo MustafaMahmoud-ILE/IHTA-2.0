@@ -4,6 +4,11 @@
 
 ---
 
+## 🧐 Why IHTA?
+The modern web is filled with algorithms designed to keep you scrolling by showing you content you didn't ask for. **IHTA 2.0** empowers users to take back control. By combining forensic DOM analysis with heuristic detection, it filters out the "junk" that standard ad-blockers often miss.
+
+---
+
 ## 🌟 Features
 - **Smart Filtering**: Uses DOM forensic analysis to identify obfuscated ads and suggestions.
 - **Bypass Obfuscation**: Detects scrambled "Sponsored" text and canvas-drawn labels.
