@@ -36,7 +36,3 @@ The extension targets specific signatures identified through multi-sample resear
 ## 📜 License
 This project is licensed under the MIT License - feel free to use and modify it!
 
----
-
-## 🇪🇬 صنع بكل حب لمواجهة الخوارزميات المزعجة
-إضافة عربية متطورة لتنقية خلاصة فيسبوك من الإعلانات والمحتوى المقترح المزعج.
